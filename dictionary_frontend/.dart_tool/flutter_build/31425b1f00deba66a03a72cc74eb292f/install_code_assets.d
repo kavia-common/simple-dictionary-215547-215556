@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/simple-dictionary-215547-215556/dictionary_frontend/.dart_tool/flutter_build/31425b1f00deba66a03a72cc74eb292f/native_assets.json: 
