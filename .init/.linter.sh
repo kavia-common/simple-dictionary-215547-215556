@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/simple-dictionary-215547-215556/dictionary_frontend
+flutter analyze
+
